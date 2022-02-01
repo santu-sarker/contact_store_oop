@@ -22,25 +22,25 @@ To Check databse information,check database_details.txt file
 **login Page**
 
 
-![Login page preview](/images/login_page.png)
+![Login page preview](/Oop_Contact_Store/images/login_page.png)
 
 
 **Registration Page**
 
 
-![registration page preview](/images/registration_page.png)
+![registration page preview](/Oop_Contact_Store/images/registration_page.png)
 
 **Home Page**
 
 
-![home page preview](/images/homepage.png)
+![home page preview](/Oop_Contact_Store/images/homepage.png)
 
 **New Contact Modal**
 
-![Add new contact](/images/new_contact.png)
+![Add new contact](/Oop_Contact_Store/images/new_contact.png)
 
 
 **Delete Contact Modal**
 
-![Delete contact](/images/delete_contact.png)
+![Delete contact](/Oop_Contact_Store/images/delete_contact.png)
 
