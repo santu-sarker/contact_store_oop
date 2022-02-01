@@ -1,7 +1,7 @@
 # contact-store Based On OOP (Object Oriented Programming )
 
 **Project  Description:**
-Contact Store is a simple **CRUD Based PHP Project** with User Authentication System. This Project Structure is Based On PHP OOP concept and followed MVC Architecture Pattern. 
+Contact Store is a simple **CRUD Based  Core PHP Project** with User Authentication System. This Project Structure is Based On PHP OOP concept and followed MVC Architecture Pattern. 
 
 To Check databse information,check database_details.txt file 
 
